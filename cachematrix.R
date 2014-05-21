@@ -1,10 +1,6 @@
 ## Reference : Original Program is from the content provided by Coursesra
-## I just ehnaced the program by making necessary changes
+## I just enhanced the program by making necessary changes to the base program
 
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
 ## Function takes matrix as input and creates a list with the options to 
 ## get,set,inverse the Matrix, Similar to the Vector Function provided as an example
 
